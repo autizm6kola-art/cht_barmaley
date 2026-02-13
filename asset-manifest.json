@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cht_barmaley/static/css/main.474e836e.css",
+    "main.js": "/cht_barmaley/static/js/main.0617add1.js",
+    "static/js/453.d37bcb50.chunk.js": "/cht_barmaley/static/js/453.d37bcb50.chunk.js",
+    "index.html": "/cht_barmaley/index.html",
+    "main.474e836e.css.map": "/cht_barmaley/static/css/main.474e836e.css.map",
+    "main.0617add1.js.map": "/cht_barmaley/static/js/main.0617add1.js.map",
+    "453.d37bcb50.chunk.js.map": "/cht_barmaley/static/js/453.d37bcb50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.474e836e.css",
+    "static/js/main.0617add1.js"
+  ]
+}
